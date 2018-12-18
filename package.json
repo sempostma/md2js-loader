@@ -1,11 +1,23 @@
 {
   "name": "md2js-loader",
   "version": "1.0.4",
-  "description": "",
+  "description": "Exports Markdown to javascript instructions. Create javascript functions from Markdown templates.",
   "scripts": {
     "test": "jest --detectOpenHandles",
     "webpack": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LesterGallagher/md2js-loader.git"
+  },
+  "homepage": "https://github.com/LesterGallagher/md2js-loader",
+  "keywords": [
+    "markdown",
+    "javascript",
+    "webpack",
+    "loader",
+    "md2js"
+  ],
   "main": "index.js",
   "author": "Sem Postma",
   "license": "MIT",
