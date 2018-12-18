@@ -1,0 +1,29 @@
+{
+  "name": "md2js-loader",
+  "version": "1.0.4",
+  "description": "",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "webpack": "webpack"
+  },
+  "main": "index.js",
+  "author": "Sem Postma",
+  "license": "MIT",
+  "dependencies": {
+    "html2js-loader": "^1.0.8",
+    "jsdom": "^13.0.0",
+    "loader-utils": "^1.1.0",
+    "marked": "^0.5.2",
+    "pdfjs-dist": "^2.0.943",
+    "schema-utils": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "memory-fs": "^0.4.1",
+    "regenerator-runtime": "^0.12.1",
+    "webpack": "^4.25.1"
+  }
+}
