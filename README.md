@@ -1,7 +1,3 @@
-[![GitHub license](https://img.shields.io/github/license/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/md2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmd2js-loader)
-
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" vspace="" hspace="25"
@@ -16,6 +12,10 @@
 # md2js-loader
 
 Exports HTML to javascript instructions. Create javascript functions from HTML templates.
+
+[![GitHub license](https://img.shields.io/github/license/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/issues)
+[![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/md2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmd2js-loader)
 
 ## Install
 

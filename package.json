@@ -1,6 +1,6 @@
 {
   "name": "md2js-loader",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Exports Markdown to javascript instructions. Create javascript functions from Markdown templates.",
   "scripts": {
     "test": "jest --detectOpenHandles",
