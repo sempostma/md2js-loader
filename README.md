@@ -20,7 +20,7 @@ Exports Markdown to javascript instructions. Create javascript functions from Ma
 ## Install
 
 ```bash
-npm i -D git+https://github.com/LesterGallagher/md2js-loader.git
+npm i -D md2js-loader
 ```
 
 ## Usage
