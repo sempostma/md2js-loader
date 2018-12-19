@@ -3,15 +3,15 @@
     <img width="200" height="200" vspace="" hspace="25"
       src="https://worldvectorlogo.com/logos/webpack.svg">
   </a>
-  <a href="https://html2js.esstudio.site">
+  <a href="https://www.markdownguide.org">
     <img width="200" height="200" vspace="" hspace="25"
-      src="https://html2js.esstudio.site/android-chrome-256x256.png">
+      src="https://cdn.worldvectorlogo.com/logos/markdown.svg">
   </a>
 </div>
 
 # md2js-loader
 
-Exports HTML to javascript instructions. Create javascript functions from HTML templates.
+Exports Markdown to javascript instructions. Create javascript functions from Markdown templates.
 
 [![GitHub license](https://img.shields.io/github/license/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/blob/master/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/issues)
