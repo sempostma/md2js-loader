@@ -13,7 +13,7 @@
 
 Exports Markdown to javascript instructions. Create javascript functions from Markdown templates.
 
-[![GitHub license](https://img.shields.io/github/license/sempostma/md2js-loader.svg)](https://github.com/LesterGallagher/md2js-loader/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/sempostma/md2js-loader.svg)](https://github.com/sempostma/md2js-loader/blob/master/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/sempostma/md2js-loader.svg)](https://github.com/sempostma/md2js-loader/issues)
 [![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/md2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmd2js-loader)
 
