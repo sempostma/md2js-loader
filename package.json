@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "html2js-loader": "^1.0.8",
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "loader-utils": "^1.1.0",
     "marked": "^0.5.2",
     "schema-utils": "^1.0.0"
